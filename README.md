@@ -13,7 +13,9 @@ Aimed towards FreeBSD and Mac OS X users.
 
 Command line syntax:
 <code>Usage: relaycontrol_osx_64-bit relay state
+
  Where relay is either 0 (all relays) or an integer between 1 and 8
+
  And state is either 1 (on) or 0 (off)</code>
 
 Based on the works of Signal 11 Software's HIDAPI @http://www.signal11.us/oss/hidapi/
