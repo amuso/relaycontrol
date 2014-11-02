@@ -17,4 +17,4 @@ Aimed towards FreeBSD and Mac OS X users.
 
 <code> And state is either 1 (on) or 0 (off)</code>
 
-Based on the works of Signal 11 Software's HIDAPI @http://www.signal11.us/oss/hidapi/
+Based on the works of Signal 11 Software's HIDAPI @ http://www.signal11.us/oss/hidapi/
