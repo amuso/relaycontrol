@@ -11,11 +11,10 @@ Aimed towards FreeBSD and Mac OS X users.
 
 ![usbrelay8](https://cloud.githubusercontent.com/assets/9513010/4875323/de82cc7a-6291-11e4-922b-5f5197c27a16.jpg)
 
-Command line syntax:
-<code>Usage: relaycontrol_osx_64-bit relay state
+<code>Usage: relaycontrol_osx_64-bit relay state</code>
 
- Where relay is either 0 (all relays) or an integer between 1 and 8
+<code> Where relay is either 0 (all relays) or an integer between 1 and 8</code>
 
- And state is either 1 (on) or 0 (off)</code>
+<code> And state is either 1 (on) or 0 (off)</code>
 
 Based on the works of Signal 11 Software's HIDAPI @http://www.signal11.us/oss/hidapi/
