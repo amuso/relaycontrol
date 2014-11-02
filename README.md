@@ -9,4 +9,6 @@ Future releases will allow you to configure custom VID and PID as well as option
 
 Aimed towards FreeBSD and Mac OS X users.
 
+https://cloud.githubusercontent.com/assets/9513010/4875323/de82cc7a-6291-11e4-922b-5f5197c27a16.jpg
+
 Based on the works of Signal 11 Software's HIDAPI @http://www.signal11.us/oss/hidapi/
